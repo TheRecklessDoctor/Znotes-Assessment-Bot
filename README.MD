@@ -8,5 +8,6 @@ server -> give description of server
 Usage:
 a) Clone the repository
 b) navigate to the first folder ZNotes-Assessment
-c) run node src/deploy.js
-d) run node src/index.js
+c) add config.json with BOT_TOKEN, APPLICATION_ID  and SERVER_ID
+d) run node src/deploy.js
+e) run node src/index.js
